@@ -15,8 +15,6 @@
             <label><p>Last Name: <input type="text" name="last_name" size="30"/></p></label>
             <label><p>Email: <input type="text" name="email"size="30"/></p></label>
             <center> <input class="form-btn" name="submit" type="submit" value="To Suscribe"/></center>
-
-
     </form>
 </div>
 </body>
